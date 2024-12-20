@@ -3,7 +3,7 @@ This repo is for the final project of the course Into to Text Analysis in Python
 
 The Federal Open Market Committee (FOMC) plays a critical role in displaying the policymakers’ consideration of U.S. monetary policy, and its releases are always scrutinized word by word by market participants to interpret the direction of interest rates or other economic measures. Its contents often influence the equity market, exchange rate, and credit swap market significantly. However, while qualitative interpretations abound, few studies have applied quantitative or computational methods to analyze these press releases systematically.
 
-The goal of this project is to utilize computational tools to analyze (1) ** the FOMC policy statement** and (2) minutes to identify patterns in the language that could signal incoming monetary policy actions. Specifically, I aim to answer the following research question:
+The goal of this project is to utilize computational tools to analyze (1) the FOMC policy statement and (2) minutes to identify patterns in the language that could signal incoming monetary policy actions. Specifically, I aim to answer the following research question:
 Can changes in the language and tone of FOMC press releases imply future policy interest rate changes?
 
 This repository includes the following documents:
